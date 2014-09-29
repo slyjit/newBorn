@@ -7,5 +7,5 @@
  * @package main
  */
 	echo '<center><h1>Start Study!!</h1></center>';
-	echo 'PHP2';
+	echo 'PHP23';
 ?>
